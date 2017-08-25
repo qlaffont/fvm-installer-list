@@ -6,10 +6,12 @@
 
 List of all compatible resources | Listes des ressources pouvant être installées : 
 - [fivemtools/ft_gamemode](https://github.com/FivemTools/ft_gamemode) - FT gamemode
-- [fivemTools/ft_ui](https://github.com/FivemTools/ft_ui) - FT User Interface
-- [fivemTools/ft_menuBuilder](https://github.com/FivemTools/ft_menuBuilder) - FT Menu Builder
+- [fivemtools/ft_ui](https://github.com/FivemTools/ft_ui) - FT User Interface
+- [fivemtools/ft_menubuilder](https://github.com/FivemTools/ft_menuBuilder) - FT Menu Builder
 - [fivem-scripts/els-fivem](https://github.com/FiveM-Scripts/ELS-FiveM) - Change Control
 - [brouznouf/fivem-mysql-async](https://github.com/brouznouf/fivem-mysql-async) - Asynchronous MySQL Connector
 - [fivem-scripts/securityvans](https://github.com/FiveM-Scripts/SecurityVans) - This resource spawns multiple security vans on the map.
 - [fivem-scripts/fivem-i18n](https://github.com/FiveM-Scripts/FiveM-i18n) - This resource manage multiple language in resource
 And More !
+- [fivemtools/ft_utils](https://github.com/FivemTools/ft_utils/tree/v0.1.0) - Tools Box
+- [fivemtools/ft_players](https://github.com/FivemTools/ft_players) - Manager Player in FiveM
