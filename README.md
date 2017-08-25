@@ -15,3 +15,5 @@ List of all compatible resources | Listes des ressources pouvant être installé
 And More !
 - [fivemtools/ft_utils](https://github.com/FivemTools/ft_utils/tree/v0.1.0) - Tools Box
 - [fivemtools/ft_players](https://github.com/FivemTools/ft_players) - Manager Player in FiveM
+- [fivemtools/ft_cash](https://github.com/FivemTools/ft_cash) - Add Money To FiveM
+- [fivemtools/ft_dirtycash](https://github.com/FivemTools/ft_dirtyCash) - Add Dirty Money to FiveM
